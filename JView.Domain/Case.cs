@@ -2,7 +2,7 @@
 
 namespace JView.Domain
 {
-    public class Class1
+    public class Case
     {
     }
 }
